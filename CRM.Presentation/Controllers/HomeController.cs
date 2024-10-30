@@ -1,6 +1,6 @@
-using CRM.Presentation.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using CRM.Models.SharedModels;
 
 namespace CRM.Presentation.Controllers
 {
